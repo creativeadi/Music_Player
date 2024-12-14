@@ -1,0 +1,1 @@
+Welcome to the Music player System. This player has been created using the practical implications of Data Structure and ALgorithms. This player gives the user the facility to create a playlist, add songs, search for a song and even delete any song from the list.
